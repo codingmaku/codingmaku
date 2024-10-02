@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codingmaku
+- 👋 Hi, I’m Mark
 - 👀 I’m interested in learning all about Front End Developing
 - 🌱 I’m currently learning the Fundamentals on Front End Developing
 - 💞️ I’m looking to collaborate on my future projects
