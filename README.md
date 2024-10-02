@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @codingmaku
+- 👀 I’m interested in learning all about Front End Developing
+- 🌱 I’m currently learning the Fundamentals on Front End Developing
+- 💞️ I’m looking to collaborate on my future projects
+- 📫 How to reach me You can contact me on Facebook Mark Icban
