@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Mark </h1>
+<h1 align="center">Mark Icban</h1>
 <h3 align="center">Front End Developer </h3>
 
 ## 💻 Tech Stack
