@@ -4,10 +4,10 @@
 
 ## 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,mongodb,python,cs,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,mongodb,java,python,cs,mysql" />
 </p>
 
 ## 🛠 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vite,vscode,visualstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=github,vite,vscode,visualstudio,figma,xml" />
 </p>
