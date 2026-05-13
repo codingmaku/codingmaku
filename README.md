@@ -4,7 +4,7 @@
 
 ## 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,mongodb,java,python,cs,mysql,ruby" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,mongodb,java,python,cs,mysql" />
 </p>
 
 ## 🛠 Tools
