@@ -9,5 +9,5 @@
 
 ## 🛠 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vite,vscode,visualstudio,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=github,vite,vscode,visualstudio,figma,blender" />
 </p>
